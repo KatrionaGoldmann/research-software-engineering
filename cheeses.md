@@ -4,5 +4,5 @@ A list of the best
 1. gorgonzola
 2. cheddar (mature)
 3. mozarella
-3. halloumi
-4. feta
+4. halloumi
+5. feta
